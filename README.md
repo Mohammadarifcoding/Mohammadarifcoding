@@ -26,7 +26,7 @@
 
 
 
-## 🌐 Socials:
+## 🌐 Socials Link:
 
 [![Email](https://img.shields.io/badge/Email-programmermdarif%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:programmermdarif@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-arif-504b27210)
