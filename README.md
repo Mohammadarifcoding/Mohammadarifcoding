@@ -20,10 +20,6 @@
 
 💻 I specialize in building dynamic web applications using MongoDB, Express, React, and Node.js. From server-side logic to seamless client-side interactions, I love diving into the intricacies of web development.
 
-🎨 Additionally, my enthusiasm for frontend design allows me to create visually appealing and responsive interfaces. CSS, JavaScript, and modern frameworks like React help me bring concepts to life with pixel-perfect precision.
-
-🌟 I'm constantly exploring new technologies, refining my skills, and seeking innovative solutions to challenges. Collaboration, learning, and contributing to meaningful projects excite me!
-
 🔍 Currently open to exciting opportunities to grow, learn, and contribute as part of a dynamic team.
 
 
