@@ -1,7 +1,7 @@
 <!-- <img  alt="Banner"  src="githubedit.png"> -->
 
 <h1 align="center">Hi there! 👋 I'm Arif</h1>
-<h3 align="center">A Frontend Developer passionate about crafting intuitive interfaces</h3>
+<h3 align="center">A Full Stack Developer passionate about building interactive website</h3>
 
 
 
