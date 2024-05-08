@@ -11,20 +11,16 @@
 
 👋 Hi there! I'm Arif, a frontend developer from Bangladesh 🇧🇩 passionate about creating intuitive user interfaces and solving challenges in web development.
 
-🌟 **Skills:** Proficient in the MERN stack - MongoDB, Express, React, Node.js. Skilled in frontend design with CSS, JavaScript, and React.
+<!-- 🌟 **Skills:** Proficient in the MERN stack - MongoDB, Express, React, Node.js. Skilled in frontend design with CSS, JavaScript,, and React.
   
 🚀 **Passion:** Eager to learn and innovate, a fast learner, and a team player committed to delivering high-quality solutions.
 
 🚀 **Vision:** Striving to evolve into a full-stack developer contributing significantly to a company's success, combining frontend finesse with backend expertise.
 
-🔍 **Seeking:** Currently seeking opportunities to expand my skills and make meaningful contributions within a collaborative tech environment.
-
 💻 I specialize in building dynamic web applications using MongoDB, Express, React, and Node.js. From server-side logic to seamless client-side interactions, I love diving into the intricacies of web development.
 
 🔍 Currently open to exciting opportunities to grow, learn, and contribute as part of a dynamic team.
-
-
-
+ -->
 # 🌐 Socials Link:
 
 [![Email](https://img.shields.io/badge/Email-programmermdarif%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:programmermdarif@gmail.com)
