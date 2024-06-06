@@ -1,4 +1,4 @@
-<img  alt="Banner"  src="githubedit.png">
+<!-- <img  alt="Banner"  src="githubedit.png"> -->
 
 <h1 align="center">Hi there! 👋 I'm Arif</h1>
 <h3 align="center">A Frontend Developer passionate about crafting intuitive interfaces</h3>
@@ -11,20 +11,16 @@
 
 👋 Hi there! I'm Arif, a frontend developer from Bangladesh 🇧🇩 passionate about creating intuitive user interfaces and solving challenges in web development.
 
-🌟 **Skills:** Proficient in the MERN stack - MongoDB, Express, React, Node.js. Skilled in frontend design with CSS, JavaScript, and React.
+<!-- 🌟 **Skills:** Proficient in the MERN stack - MongoDB, Express, React, Node.js. Skilled in frontend design with CSS, JavaScript,, and React.
   
 🚀 **Passion:** Eager to learn and innovate, a fast learner, and a team player committed to delivering high-quality solutions.
 
 🚀 **Vision:** Striving to evolve into a full-stack developer contributing significantly to a company's success, combining frontend finesse with backend expertise.
 
-🔍 **Seeking:** Currently seeking opportunities to expand my skills and make meaningful contributions within a collaborative tech environment.
-
 💻 I specialize in building dynamic web applications using MongoDB, Express, React, and Node.js. From server-side logic to seamless client-side interactions, I love diving into the intricacies of web development.
 
 🔍 Currently open to exciting opportunities to grow, learn, and contribute as part of a dynamic team.
-
-
-
+ -->
 # 🌐 Socials Link:
 
 [![Email](https://img.shields.io/badge/Email-programmermdarif%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:programmermdarif@gmail.com)
@@ -47,8 +43,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadarifcoding&theme=react&hide_border=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadarifcoding&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+  <!-- <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"> -->
 
   <hr>
   
