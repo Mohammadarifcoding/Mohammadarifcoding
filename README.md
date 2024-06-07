@@ -21,6 +21,21 @@
 
 🔍 Currently open to exciting opportunities to grow, learn, and contribute as part of a dynamic team.
  -->
+  # 📊 GitHub Stats:
+
+<div align="center">
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=Mohammadarifcoding&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadarifcoding&theme=react&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadarifcoding&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
+  <!-- <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"> -->
+
+  <hr>
+  
+</div>
+
 # 🌐 Socials Link:
 
 [![Email](https://img.shields.io/badge/Email-programmermdarif%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:programmermdarif@gmail.com)
@@ -35,20 +50,6 @@
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
- # 📊 GitHub Stats:
-
-<div align="center">
- 
- <img src="https://github-readme-stats.vercel.app/api?username=Mohammadarifcoding&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadarifcoding&theme=react&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadarifcoding&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-
-  <!-- <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"> -->
-
-  <hr>
-  
-</div>
 
 
 
